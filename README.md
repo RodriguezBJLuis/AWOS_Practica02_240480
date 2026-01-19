@@ -16,3 +16,4 @@ Esta práctica será desarrollada con estructura de ramales, para el estudiante 
 |No.|Descripción|Potenciador|Estatus|
 |---|---|---|---|
 |1.| Declaración de Varibles| 1 | Finalizado |
+|2.| Tipos de Datos | 7 |  Finalizada|
